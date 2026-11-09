@@ -2,10 +2,12 @@
 
 ## Emre Ertürk
 
-Computer Engineering · İzmir Institute of Technology
+Bsc Computer Engineering · İzmir Institute of Technology 
 
 Artificial life, evolutionary computation and robotics. Simulations run in the browser
 (WebGL2) where possible; classic papers in the field are re-implemented to check their results.
+
+I am interested in artificial life, swarm robotics , evolutionary robotics and etc.
 
 <sub>evolutionary computation · artificial life · swarm intelligence · agent-based modelling · GPU / WebGL · mobile robotics · embedded systems</sub>
 
