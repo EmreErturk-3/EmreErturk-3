@@ -22,7 +22,7 @@ Artificial life, evolutionary computation and robotics. Simulations run in the b
 An RGB reaction–diffusion world in which an eight-gene network, compiled to a GPU shader, grows
 organisms that crawl, split and play their own music. The defaults were chosen by controlled
 experiments on about 18,000 worlds, and 12 classic A-life papers are reproduced alongside it.<br>
-<sub>[Live](https://emreerturk-3.github.io/evomaxx/) · [Explainer](https://github.com/EmreErturk-3/evomaxx/blob/main/EXPLAINED.md) · WebGL2 · WebAudio · Python</sub>
+<sub>[Live](https://emreerturk-3.github.io/evomaxx/) · [A-life reproductions (live)](https://emreerturk-3.github.io/evomaxx/reproductions/live/) · [Explainer](https://github.com/EmreErturk-3/evomaxx/blob/main/EXPLAINED.md) · WebGL2 · WebAudio · Python</sub>
 
 </td>
 </tr>
